@@ -1,6 +1,6 @@
-# 🎓 Educational Institution Website
+# 🎓 Eduford College Website
 
-Welcome to the **Educational Institution Website** repository! This project is a fully responsive and modern website designed for educational institutions, built using React.js. THe website features various sections including About Us, Blog, Courses, and Contact Us, each tailored to provide a comprehensive and engaging user experience.
+Welcome to the **Eduford College Website** repository! This project is a fully responsive and modern website designed for educational institutions, built using React.js. THe website features various sections including About Us, Blog, Courses, and Contact Us, each tailored to provide a comprehensive and engaging user experience.
 
 ### 🌐 Live Preview
 
