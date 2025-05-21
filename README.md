@@ -4,12 +4,8 @@ Welcome to the **Educational Institution Website** repository! This project is a
 
 ### 🌐 Live Preview
 
-Check out the live version of the website [here](https://react-college-website.vercel.app/)
+Check out the live version of the website [here](https://college-websites-bice.vercel.app/)
 
-### 🌐 Screenshots
-
-Here's a sneak peek of what the website looks like:
-![Educational Institution Website](./public/preview.png)
 
 ### 🛠️ Tech Stack
 
@@ -17,8 +13,12 @@ Here's a sneak peek of what the website looks like:
 - **Styling:** CSS
 - **Routing:** React Router DOM
 
----
+- Author Sumit Kumar Chaurasia
 
-Thank you for checking out, If you find this project helpful, please consider giving it a ⭐.
+Lets Connect On Email: sumitmchaurasia@gmail.com
+
+Linkedin: www.linkedin.com/in/sumit-kumar-chaurasia-11a5821a7
+
+Thank you !
 
 ---
